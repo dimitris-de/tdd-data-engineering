@@ -1,7 +1,3 @@
-Certainly! Based on your project structure, I've amended the README.md to refer to the specific files in your project so that your students can follow along and learn effectively.
-
----
-
 # Test-Driven Development (TDD) in Data Engineering with Python
 
 Welcome to this hands-on lab designed to equip data engineers with practical experience in Test-Driven Development (TDD) using Python. This lab covers fundamental and advanced topics, tailored specifically for data engineering.
